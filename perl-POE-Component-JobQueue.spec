@@ -8,13 +8,13 @@
 Summary:	POE::Component::JobQueue - a component to manage queues and worker pools
 Summary(pl):	POE::Component::JobQueue - komponent do zarz±dzania kolejkami i robotnikami
 Name:		perl-POE-Component-JobQueue
-Version:	0.53
+Version:	0.55
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	af14d62682d23f65c0a34b89fbdd832f
+# Source0-md5:	802e96ec46e5142a2aa25939a55f6855
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
