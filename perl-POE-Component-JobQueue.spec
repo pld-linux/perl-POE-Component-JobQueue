@@ -6,7 +6,7 @@
 %define		pdir	POE
 %define		pnam	Component-JobQueue
 Summary:	POE::Component::JobQueue - a component to manage queues and worker pools
-Summary(pl.UTF-8):   POE::Component::JobQueue - komponent do zarządzania kolejkami i robotnikami
+Summary(pl.UTF-8):	POE::Component::JobQueue - komponent do zarządzania kolejkami i robotnikami
 Name:		perl-POE-Component-JobQueue
 Version:	0.55
 Release:	1
