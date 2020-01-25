@@ -4,7 +4,6 @@
 
 %define		pdir	POE
 %define		pnam	Component-JobQueue
-%include	/usr/lib/rpm/macros.perl
 Summary:	POE::Component::JobQueue - a component to manage queues and worker pools
 Summary(pl.UTF-8):	POE::Component::JobQueue - komponent do zarządzania kolejkami i robotnikami
 Name:		perl-POE-Component-JobQueue
